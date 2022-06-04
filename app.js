@@ -19,7 +19,7 @@ class App {
     this.resize();
 
     this.radius = 4.5;
-    this.pixelSize = 2;
+    this.pixelSize = 10;
     this.dots = [];
 
     this.isLoaded = false;
